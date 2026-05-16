@@ -182,16 +182,16 @@ function updateProgress() {
 function showFeedbackImage(image, state) {
   const imageMap = {
     disappointed: {
-      alt: "A portrait of the man looking slightly disappointed.",
-      src: "assets/portrait-disappointed.png",
+      alt: "A duck looking slightly disappointed.",
+      src: "assets/duck-disappointed.png",
     },
     distraught: {
-      alt: "A portrait of the man looking distraught with tears.",
-      src: "assets/portrait-distraught.png",
+      alt: "A duck looking distraught with tears.",
+      src: "assets/duck-distraught.png",
     },
     happy: {
-      alt: "A portrait of the man looking happy.",
-      src: "assets/portrait-happy.png",
+      alt: "A happy duck holding a pencil.",
+      src: "assets/duck-happy.png",
     },
   };
 
